@@ -1,0 +1,37 @@
+﻿  Particles.cpp
+C:\Users\reese\source\repos\Particles\Particles\Particle.h(8,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Particles.cpp')
+  
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(7,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(12,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(12,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(12,46): warning C4244:         with
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(12,46): warning C4244:         [
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(12,46): warning C4244:             T=unsigned int
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(12,46): warning C4244:         ]
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(15,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(16,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(29,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(30,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(31,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(52,42): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(52,42): warning C4244:         with
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(52,42): warning C4244:         [
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(52,42): warning C4244:             T=float
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(52,42): warning C4244:         ]
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(52,27): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(52,27): warning C4244:         with
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(52,27): warning C4244:         [
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(52,27): warning C4244:             T=float
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(52,27): warning C4244:         ]
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(103,29): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(103,29): warning C4244:         with
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(103,29): warning C4244:         [
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(103,29): warning C4244:             T=float
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(103,29): warning C4244:         ]
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(104,29): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(104,29): warning C4244:         with
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(104,29): warning C4244:         [
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(104,29): warning C4244:             T=float
+C:\Users\reese\source\repos\Particles\Particles\Particles.cpp(104,29): warning C4244:         ]
+  Particles.vcxproj -> C:\Users\reese\source\repos\Particles\x64\Debug\Particles.exe
